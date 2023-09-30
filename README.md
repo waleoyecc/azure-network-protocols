@@ -56,7 +56,7 @@ ping command for ICMP allowed
 
 ![ping for vm wale2 wt powershell2](https://github.com/waleoyecc/azure-network-protocols/assets/140360882/45bb4548-86ff-4f4f-b821-370d0744aae9)
 
-ping command to Wale2
+ping command to Virtual machine 2
 
 ![ssh connect establshed and closed](https://github.com/waleoyecc/azure-network-protocols/assets/140360882/c2af87ab-b84c-46bd-945d-0a56c97a8300)
 
