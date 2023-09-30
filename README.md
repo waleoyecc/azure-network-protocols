@@ -73,4 +73,3 @@ WireShark ping
 ![Wireshark traffic](https://github.com/waleoyecc/azure-network-protocols/assets/140360882/36b3dfc4-bebf-4103-8761-660692fcbde2)
 
 Wireshak traffic
-
